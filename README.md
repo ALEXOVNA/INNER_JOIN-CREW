@@ -18,7 +18,7 @@ Develop dev activity strategies for the company's products and track key perform
 ## Stack
 
 ### Team
-* <a href='https://github.com/'> Artur Valiullin - DA </a>
+* <a href='https://github.com/tatar-runner'> Artur Valiullin - DA </a>
 * <a href='https://github.com/alexovna'> Kali Li - TeamLead, SA, BA, DA </a>
 
 
