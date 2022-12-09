@@ -7,9 +7,9 @@ Application [Constructor for DevRel]
 Develop dev activity strategies for the company's products and track key performance indicators on the dashboard in order to make optimal management decisions in the present and develop marketing activities for developers to achieve the company's goals in the future.
 
 ## Fuction
-* [ ]  проектирование dev-активностей на основе собственных и готовых темплейтов
-* [ ]  отслеживание KPI по dev-активностям продукта
-* [ ]  интеграция с gitHub, gitLab, Behance, Dribble, а также hr-сервисами, обучающими платформами, стриминговыми сервисами и др. для получения сведений о портфолио разработчиков, поиска специалистов, создания курсов, распространения билетов на мероприятия компании и не только.  
+* [ ]  designing dev-activities based on proprietary and ready-made templates;
+* [ ]  tracking KPIs for dev-activities of the product;
+* [ ]  integration with GitHub, GitLab, Behance, Dribble, as well as HR services, training platforms, streaming services, etc. to obtain information about the portfolio of developers, search for specialists, create courses, distribute tickets to company events and not only.
 
 ## Artefacts
 * <a href='https://github.com/alexovna/inner_join-crew'>Technical Specification</a>
@@ -18,7 +18,7 @@ Develop dev activity strategies for the company's products and track key perform
 ## Stack
 
 ### Team
-* <a href='https://github.com/'> Artur Valliulin - DA </a>
+* <a href='https://github.com/'> Artur Valiullin - DA </a>
 * <a href='https://github.com/alexovna'> Kali Li - TeamLead, SA, BA, DA </a>
 
 
