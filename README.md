@@ -3,8 +3,8 @@ Application [Constructive DevRel]
 
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/Figma-Figma-pink" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Figma-Figma-pink" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Figma-pink" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Python-3.1-blue" alt="Python"/>
 </div>
 
 #  Constructive DevRel
