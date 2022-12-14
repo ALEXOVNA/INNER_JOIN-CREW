@@ -1,5 +1,11 @@
 # INNER_JOIN-CREW
-Application [Constructor for DevRel]
+Application [Constructive DevRel]
+
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/Figma-Figma-pink" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Figma-Figma-pink" alt="Figma"/>
+</div>
 
 #  Constructive DevRel
 ![RESOLVE screens](https://user-images.githubusercontent.com/52166127/207519019-ef8a104c-79e2-44d5-8fa8-12d7f896cbd9.jpg)
